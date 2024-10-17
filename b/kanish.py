@@ -2,7 +2,7 @@ import tkinter as tk
 import mysql.connector
 
 root = tk.Tk()
-root.attributes('-fullscreen', True)
+root.attributes('-fullscreen', True)]\
 root.title("Airport Reservation System")
 
 def minimize_window():
